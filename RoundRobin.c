@@ -67,7 +67,7 @@ int main() {
 
 //Enter the Arrival and Burst time of Process[4]:
 //Arrival time: 0
-Burst time: 6
+//Burst time: 6
 
 //Enter the Time Quantum for the processes: 2
 
