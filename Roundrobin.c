@@ -59,3 +59,22 @@ int main() {
 
     return 0;
 }
+/*Enter the arrival time for process P1: 2
+Enter the burst time for process P1: 1
+Enter the arrival time for process P2: 1
+Enter the burst time for process P2: 5
+Enter the arrival time for process P3: 4
+Enter the burst time for process P3: 1
+Enter the arrival time for process P4: 0
+Enter the burst time for process P4: 6
+
+Enter the Time Quantum for the processes: 3
+
+Process No      Burst Time      TAT     Waiting Time
+Process No[1]   1               -1              -2
+Process No[3]   1               1               0
+Process No[2]   5               9               4
+Process No[4]   6               13              7
+Average Turn Around Time: 2.250000
+Average Waiting Time: 5.500000
+*/
